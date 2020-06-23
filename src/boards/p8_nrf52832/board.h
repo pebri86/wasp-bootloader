@@ -37,7 +37,6 @@
 #define BUTTON_1           17
 #define BUTTON_PULL        NRF_GPIO_PIN_NOPULL
 #define BUTTON_ACTIVE      1
-//#define BUTTON_ENABLE    15
 
 /*------------------------------------------------------------------*/
 /* UART
